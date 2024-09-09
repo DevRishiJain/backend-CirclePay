@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, please contact the project maintainer at [your-email@example.com](mailto:devrishijain07@gmail.com).
+If you have any questions or feedback, please contact the project maintainer at [Dev Rishi Jain](mailto:devrishijain07@gmail.com).
 
 ---
 

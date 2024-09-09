@@ -83,7 +83,7 @@ The server will start running at `http://localhost:3000`.
 | GET | /api/cargo/{shipmentId} | Retrieve cargo shipment details |
 | GET | /api/inventory/{stationId} | Retrieve inventory levels for a space station |
 
-For detailed API documentation, please refer to the [API Documentation](link-to-your-api-docs).
+For detailed API documentation, please refer to the [API Documentation](intergalactic-trade-network/README.md).
 
 ![API Endpoints](https://via.placeholder.com/600x400.png?text=API+Endpoints+Diagram)
 

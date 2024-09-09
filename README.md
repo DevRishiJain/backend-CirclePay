@@ -14,7 +14,8 @@ The Intergalactic Trade Network Backend is a robust system designed to facilitat
 - 🔄 Provide real-time updates on trade activities and cargo status
 - 🔐 Secure API Gateway for authentication and request routing
 
-![System Architecture]([https://via.placeholder.com/800x600.png?text=System+Architecture+Diagram](https://github.com/user-attachments/assets/2fba00d5-5fef-40dc-b7ed-1db2b38d8c63))
+![System Architecture](<img width="677" alt="Screenshot 2024-09-09 at 11 12 23 AM" src="https://github.com/user-attachments/assets/2fba00d5-5fef-40dc-b7ed-1db2b38d8c63">
+)
 
 ## Technologies Used
 

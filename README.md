@@ -1,6 +1,6 @@
 # Intergalactic Trade Network Backend
 
-![Intergalactic Trade Network Banner]([https://via.placeholder.com/1200x300.png?text=Intergalactic+Trade+Network](https://media.licdn.com/dms/image/v2/C4D1BAQFGCrNhxPKmgg/company-background_10000/company-background_10000/0/1648742194312/circlepay_ai_cover?e=2147483647&v=beta&t=_q1_Q_RSjTeA4Eww4BKmL-ZrZLvYSw-mPXgkIAifPtg))
+![Intergalactic Trade Network Banner]([[https://via.placeholder.com/1200x300.png?text=Intergalactic+Trade+Network](https://media.licdn.com/dms/image/v2/C4D1BAQFGCrNhxPKmgg/company-background_10000/company-background_10000/0/1648742194312/circlepay_ai_cover?e=2147483647&v=beta&t=_q1_Q_RSjTeA4Eww4BKmL-ZrZLvYSw-mPXgkIAifPtg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcirclepay-ai&psig=AOvVaw3RW1M1cSjrhIYea-h_jEw4&ust=1725947310156000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjaqfiUtYgDFQAAAAAdAAAAABAE)))
 
 ## Overview
 

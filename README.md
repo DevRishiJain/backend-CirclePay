@@ -1,6 +1,6 @@
 # Intergalactic Trade Network Backend
 
-![Intergalactic Trade Network Banner]([https://via.placeholder.com/1200x300.png?text=Intergalactic+Trade+Network](https://image.pitchbook.com/eFVTQwyzbGnwnsJwjyAqidnf8qk1685353305587_200x200))
+![Intergalactic Trade Network Banner](https://github.com/user-attachments/assets/34440000-14e2-4df1-b747-22365030db59)
 
 ## Overview
 
@@ -14,7 +14,9 @@ The Intergalactic Trade Network Backend is a robust system designed to facilitat
 - 🔄 Provide real-time updates on trade activities and cargo status
 - 🔐 Secure API Gateway for authentication and request routing
 
-![System Architecture](https://github.com/DevRishiJain/backend-CirclePay/issues/1#issue-2512986525)
+
+# System Architecture
+ <img width="677" alt="Screenshot 2024-09-09 at 11 12 23 AM" src="https://github.com/user-attachments/assets/e69001b2-3b19-4d35-8f04-8861abe4af6d">
 
 ## Technologies Used
 

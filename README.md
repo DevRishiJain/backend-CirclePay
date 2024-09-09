@@ -85,7 +85,7 @@ The server will start running at `http://localhost:3000`.
 
 For detailed API documentation, please refer to the [API Documentation](intergalactic-trade-network/README.md).
 
-![API Endpoints](https://via.placeholder.com/600x400.png?text=API+Endpoints+Diagram)
+
 
 ## Testing
 
